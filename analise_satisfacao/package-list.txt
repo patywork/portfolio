@@ -1,0 +1,3 @@
+# packages in environment at /Users/pguisordi/opt/anaconda3/envs/sat_ana_env:
+#
+# Name                    Version                   Build  Channel
