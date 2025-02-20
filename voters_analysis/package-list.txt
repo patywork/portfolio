@@ -1,0 +1,3 @@
+# packages in environment at /Users/pguisordi/opt/anaconda3/envs/usa_voters_env:
+#
+# Name                    Version                   Build  Channel
